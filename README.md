@@ -57,5 +57,35 @@ The goal then is to adapt the color (or albedo) of a textured object to its text
 
 ## Exemples
 
+Here are a few exemples done with the code shared.
+
+First, some spheres (walls + actual spheres) colored, with diffusion and a mirror sphere :
+
+![exemple 1](images/spheres.png)
+
+You can see then a single sphere with soft shadows (or a spherical light) : 
+
+![exemple 2](images/ombre.png)
+
+After this, here are different objects (loaded or not) created via a mesh :
+
+A rotated cube with a sphere
+
+![exemple 3](images/objets.png)
+
+A girl 
+
+![exemple 4](images/girl.png)
+
+A car, which is a heavier mesh
+
+![exemple 5](images/voiture.png)
 
 
+You can finally observe here a textured mesh :
+
+![exemple 6](images/texture.png)
+
+But also a refracting mesh
+
+![exemple 7](images/dracaufeu_transparent.png)
